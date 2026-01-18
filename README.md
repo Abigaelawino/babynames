@@ -9,7 +9,7 @@ Instagram-style data storytelling.
 
 ## Top 10 Baby Names by Generation
 
-![Top 10 Overview](visualizatiions/Top 10 Baby Names by Generation/00_top10_overview.png)
+![Top 10 Overview](visualizatiions/top_10_baby_names/00_top10_overview.png)
 
 ---
 
