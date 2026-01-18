@@ -1,0 +1,19 @@
+# system
+.DS_Store
+Thumbs.db
+
+# python/jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data (avoid committing large/raw files)
+data/raw/
+data/processed/*.csv
+
+# tableau temp/extracts
+*.hyper
+*.log
+
+# env/secrets
+.env
