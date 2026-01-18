@@ -9,37 +9,37 @@ Instagram-style data storytelling.
 
 ## Top 10 Baby Names by Generation
 
-![Top 10 Overview](visualizatiions/top_10_baby_names/00_top10_overview.png)
+![Top 10 Overview](visualizations/top_10_baby_names/00_top10_overview.png)
 
 ---
 
 ## Boomers (1946–1964)
 
-![Boomers](visualizatiions/top_10_baby_names/01_boomers.png)
+![Boomers](visualizations/top_10_baby_names/01_boomers.png)
 
 ---
 
 ## Gen X (1965–1980)
 
-![Gen X](visualizatiions/top_10_baby_names/02_genx.png)
+![Gen X](visualizations/top_10_baby_names/02_genx.png)
 
 ---
 
 ## Millennials (1981–1996)
 
-![Millennials](visualizatiions/top_10_baby_names/03_millennials.png)
+![Millennials](visualizations/top_10_baby_names/03_millennials.png)
 
 ---
 
 ## Gen Z (1997–2012)
 
-![Gen Z](visualizatiions/top_10_baby_names/04_genz.png)
+![Gen Z](visualizations/top_10_baby_names/04_genz.png)
 
 ---
 
 ## Gen Alpha (2013–2024)
 
-![Gen Alpha](visualizatiions/top_10_baby_names/05_genalpha.png)
+![Gen Alpha](visualizations/top_10_baby_names/05_genalpha.png)
 
 ---
 
