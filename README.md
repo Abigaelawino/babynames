@@ -15,31 +15,31 @@ Instagram-style data storytelling.
 
 ## Boomers (1946–1964)
 
-![Boomers](visualizations/01_boomers.png)
+![Boomers](visualizatiions/top_10_baby_names/01_boomers.png)
 
 ---
 
 ## Gen X (1965–1980)
 
-![Gen X](visualizations/02_genx.png)
+![Gen X](visualizatiions/top_10_baby_names/02_genx.png)
 
 ---
 
 ## Millennials (1981–1996)
 
-![Millennials](visualizations/03_millennials.png)
+![Millennials](visualizatiions/top_10_baby_names/03_millennials.png)
 
 ---
 
 ## Gen Z (1997–2012)
 
-![Gen Z](visualizations/04_genz.png)
+![Gen Z](visualizatiions/top_10_baby_names/04_genz.png)
 
 ---
 
 ## Gen Alpha (2013–2024)
 
-![Gen Alpha](visualizations/05_genalpha.png)
+![Gen Alpha](visualizatiions/top_10_baby_names/05_genalpha.png)
 
 ---
 
