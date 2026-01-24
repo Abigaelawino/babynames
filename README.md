@@ -1,7 +1,6 @@
 # How Basic Is Your Name?
 
-A visual exploration of U.S. baby names by generation, designed for
-Instagram-style data storytelling.
+A visual exploration of U.S. baby names by generation.
 
 **Source:** U.S. Social Security Administration (1880–2024)
 
