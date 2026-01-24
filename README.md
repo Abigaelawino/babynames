@@ -26,7 +26,11 @@ A visual exploration of U.S. baby names by generation.
 
 ## Millennials (1981–1996)
 
+<<<<<<< HEAD
 ![Millennials](visualizations/top_10_baby_names/03_millennials.png)
+=======
+![Millennials](visualizations/top_10_baby_names/03_millenials.png)
+>>>>>>> 4105c39799eeb3c73e6a8ccf979862d4bba0b9fc
 
 ---
 
